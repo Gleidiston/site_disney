@@ -7,7 +7,7 @@ export default function ToSing() {
   return (
     <div>
       <div>
-        <Button>ENTRAR</Button>
+        <Button>ENTRAR 2</Button>
       </div>
       <Card>
         <CardMedia></CardMedia>
